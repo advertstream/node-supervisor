@@ -42,6 +42,9 @@ clean up all the inter-module references, and without a whole new
         The executable that runs the specified program.
         Default is 'node'
 
+      --cwd <cwd>
+        String Current working directory of the child process
+
       --debug
         Start node with --debug flag.
 
