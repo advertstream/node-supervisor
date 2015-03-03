@@ -67,6 +67,9 @@ clean up all the inter-module references, and without a whole new
       -h|--help|-?
         Display these usage instructions.
 
+      -k|--signal <signal>
+        Signal used to kill the child process, default=SIGTERM
+
       -q|--quiet
         Suppress DEBUG messages
 
